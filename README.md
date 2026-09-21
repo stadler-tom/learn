@@ -13,6 +13,8 @@ Der Schwerpunkt des Projekts liegt nicht auf einem möglichst umfangreichen Endp
 
 ## in der ganz entfernten Zukunft
 
+Hier muss ich mir was einfallen lassen, ladida
+
 ## 2. Lernziele
 
 git push pull und branchcheckout ist verständlich. aber was ist der genaue nutzen von git. wie repariert man git wenn etwas hakt, wie erstellt man mergerequests, was ist ein pullrequest? wie wird cherrybicking betrieben? Kurzum, ich möchte lernen wie und warum man mit git arbeitet. 
