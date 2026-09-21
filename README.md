@@ -5,6 +5,8 @@ Die Anwendung ermöglicht es dir, persönliche Lernziele, Aufgaben und Fortschri
 
 Der Schwerpunkt des Projekts liegt nicht auf einem möglichst umfangreichen Endprodukt, sondern auf dem Weg dorthin: Jede Funktion wird genutzt, um reale Entwicklungsprozesse zu üben, zum Beispiel Branching, Pull Requests, Tests, Containerisierung und automatisierte Builds.
 
+in der ganz entfernten Zukunft
+
 2. Lernziele
 
 git push pull und branchcheckout ist verständlich. aber was ist der genaue nutzen von git. wie repariert man git wenn etwas hakt, wie erstellt man mergerequests, was ist ein pullrequest? wie wird cherrybicking betrieben? Kurzum, ich möchte lernen wie und warum man mit git arbeitet. 
@@ -21,3 +23,4 @@ ich möchte in zukunft pipelines für anfordeungen die kollegen stellen erstelle
 
 die Porgrammiersprachen vor allem java script soll verbessert werden, ich mochte im Testdriven design arbeiten das kenne ich auch noch nicht. aber mit der pipeline zusammen ergibt sich hier eine große synergie. 
 hier möchte ich gerne programmieren üben, und der tutor soll mir zeigen wie man sauber coded, welche sachen man trennt und welche design s man verfolgt umd wirklich sauberen code zu erstellen. 
+
