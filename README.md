@@ -1,7 +1,7 @@
 1. Kurzbeschreibung
 Learning Journal ist eine kleine webbasierte Anwendung, die im Rahmen eines projektorientierten Lernkurses entwickelt wird. Das Projekt dient dazu, praktische Erfahrungen mit Git, Docker, CI/CD, Spring Boot, PostgreSQL und testgetriebener Entwicklung zu sammeln.
 
-Die Anwendung ermöglicht es uns jetzt, persönliche Lernziele, Aufgaben und Fortschritte zu dokumentieren. Nutzer können Lerninhalte erfassen, Aufgaben verwalten, Bearbeitungsstände setzen und nachvollziehen, welche Themen bereits bearbeitet wurden.
+Die Anwendung ermöglicht es dir, persönliche Lernziele, Aufgaben und Fortschritte zu dokumentieren. Nutzer können Lerninhalte erfassen, Aufgaben verwalten, Bearbeitungsstände setzen und nachvollziehen, welche Themen bereits bearbeitet wurden.
 
 Der Schwerpunkt des Projekts liegt nicht auf einem möglichst umfangreichen Endprodukt, sondern auf dem Weg dorthin: Jede Funktion wird genutzt, um reale Entwicklungsprozesse zu üben, zum Beispiel Branching, Pull Requests, Tests, Containerisierung und automatisierte Builds.
 
