@@ -11,14 +11,14 @@
 	<groupId>de.learning.journal</groupId>
 	<artifactId>learning-journal</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name/>
-	<description/>
+	<name>learning-projekt-1.0</name>
+	<description>Spring Boot für das learning Projekt. build ueber Maven</description>
 	<url/>
 	<licenses>
 		<license/>
 	</licenses>
 	<developers>
-		<developer/>
+		<developer>stadi</developer>
 	</developers>
 	<scm>
 		<connection/>
