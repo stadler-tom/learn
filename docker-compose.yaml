@@ -1,0 +1,12 @@
+services:
+  web:
+    image: learning-journal:latest
+    ports:
+      - "8080:8080"
+    depends_on:
+      - database
+
+  database:
+    image: postgres:14.24-alpine3.23
+    ports:
+      - "5432:5432"
