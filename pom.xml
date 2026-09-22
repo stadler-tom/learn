@@ -18,7 +18,9 @@
 		<license/>
 	</licenses>
 	<developers>
-		<developer>stadi</developer>
+		<developer>
+			<id>stadi</id>
+		</developer>
 	</developers>
 	<scm>
 		<connection/>
